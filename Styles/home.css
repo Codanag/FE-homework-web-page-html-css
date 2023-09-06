@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Tilt+Neon&display=swap");
+
+body {
+  background-color: #000000;
+  font-family: "Tilt Neon", cursive;
+}
+
+.header {
+  position: relative;
+}
+
+.menu {
+  position: relative;
+  text-align: center;
+}
+
+h1 {
+  color: #d67bff;
+
+  font-size: 70px;
+  text-align: center;
+  text-shadow: 3px 3px 8px #0f6292;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #45ffca;
+  font-size: 25px;
+  text-align: center;
+  text-shadow: 1px 1px 8px #0f6292;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 1px 1px 8px #0f6292;
+  text-transform: uppercase;
+}
+
+a {
+  color: #feffac;
+  font-size: 19px;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 20px;
+  color: #d67bff;
+}
+
+span {
+  color: #feffac;
+}
+
+.button {
+  color: #d67bff;
+}
+
+.button:hover {
+  font-size: 20px;
+  color: #d67bff;
+}
+
+#login-button {
+  background-color: white;
+  border-radius: 20px;
+  font-weight: bold;
+  width: 105px;
+  height: 33px;
+  font-size: 20px;
+  text-align: center;
+  position: fixed;
+  top: 0px;
+  margin-top: 30px;
+  right: 30px;
+  line-height: 33px;
+}
+
+#login-button:hover {
+  width: 107px;
+  height: 35px;
+  font-size: 21px;
+}
+
+.video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  padding: 40px;
+}
+
+.img-movie-banners {
+  width: auto;
+  height: 100px;
+}
+
+/* palette https://colorhunt.co/palette/45ffcafeffacffb6d9d67bff*/
