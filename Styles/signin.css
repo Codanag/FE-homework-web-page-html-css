@@ -48,7 +48,7 @@ a:hover {
 }
 
 #home-button {
-  background-color: #feffac;
+  background-color: white;
   border-radius: 20px;
   font-weight: bold;
   width: 105px;
@@ -70,7 +70,7 @@ a:hover {
 }
 
 #submit-button {
-  background-color: #feffac;
+  background-color: white;
   border-radius: 20px;
   font-weight: bold;
   width: 105px;

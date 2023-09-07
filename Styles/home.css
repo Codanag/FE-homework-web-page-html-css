@@ -94,7 +94,13 @@ span {
 
 .img-movie-banners {
   width: auto;
-  height: 100px;
+  height: 295px;
+  padding: 10px;
+}
+
+.container-movies-img {
+  margin: 10px;
+  padding: 5px;
 }
 
 /* palette https://colorhunt.co/palette/45ffcafeffacffb6d9d67bff*/
